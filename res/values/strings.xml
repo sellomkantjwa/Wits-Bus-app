@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">DatabaseQuery</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_name">WITS Buses</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Welcome">Welcome</string>
+    <string name="ViewTimetable">View Bus Timetable</string>
+    <string name="SelectStartStops">Select Start Bus Stop</string>
+    <string name="SelectEndStop">Select End Bus Stop</string>
+    <string-array name="BusStops">
+        <item >Amic Deck</item>
+        <item >Esselen</item>
+        <item >Wits Junction</item>
+        <item >WEC</item>
+        <item >PKV1/EOH</item>
+        <item >Knockando</item>
+    </string-array>
 
 </resources>
